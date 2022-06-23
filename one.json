@@ -1,0 +1,538 @@
+[{
+
+    "english": " Go",
+    "banan": "গু",
+    "bangla": "যাওয়া"
+
+	}, {
+
+    "english": "come",
+    "banan": "কাম",
+    "bangla": "আসা"
+
+	},
+  {
+
+    "english": "sleep",
+    "banan": " স্লীপ",
+    "bangla": "ঘুমানো"
+
+	}, {
+
+    "english": "eat",
+    "banan": "ইট",
+    "bangla": "খাওয়া"
+
+	},
+	{
+	
+	  "english": "drink",
+	  "banan": "ড্রিংক",
+	  "bangla": " পান করা"
+	
+	}, {
+	
+	  "english": " take",
+	  "banan": "টেক",
+	  "bangla": " নেয়া"
+	
+	},
+	{
+   
+    "english":" say",
+    "banan": "সে",
+    "bangla":" বলা"
+    
+  },{
+   
+    "english":" get",
+    "banan": "গেট",
+    "bangla":" পাওয়া"
+    
+  },{
+   
+    "english":" make",
+    "banan": "মেইক",
+    "bangla":" তৈরি করা"
+    
+  },{
+   
+    "english":" know",
+    "banan": "নো",
+    "bangla":" জানা"
+    
+  },{
+   
+    "english":" think",
+    "banan": "থিংক",
+    "bangla":" চিন্তা করা"
+    
+  },{
+   
+    "english":" see",
+    "banan": "সী",
+    "bangla":" দেখা"
+    
+  },{
+   
+    "english":" want",
+    "banan": "ওয়ান্ট",
+    "bangla":" চাওয়া"
+    
+  },{
+   
+    "english":" look",
+    "banan": "লুক",
+    "bangla":" তাকানো"
+    
+  },{
+   
+    "english":" use",
+    "banan": "ইউজ",
+    "bangla":" ব্যবহার করা"
+    
+  },{
+   
+    "english":" find",
+    "banan": "ফাইন্ড",
+    "bangla":" খুঁজে পাওয়া"
+    
+  },{
+   
+    "english":" give",
+    "banan": "গীভ",
+    "bangla":" দেয়া"
+    
+  },{
+   
+    "english":" tell",
+    "banan": "টেল",
+    "bangla":" বলা"
+    
+  },{
+   
+    "english":" work",
+    "banan": "ওয়ার্ক",
+    "bangla":" কাজ করা"
+    
+  },{
+   
+    "english":" call",
+    "banan": "কল",
+    "bangla":"  ডাকা"
+    
+  },{
+   
+    "english":" try",
+    "banan": "ট্রাই",
+    "bangla":" চেষ্টা করা"
+    
+  },{
+   
+    "english":" ask",
+    "banan": "আস্ক",
+    "bangla":" প্রশ্ন করা"
+    
+  },{
+   
+    "english":" need",
+    "banan": "নীড",
+    "bangla":" প্রয়োজন"
+    
+  },{
+   
+    "english":" feel",
+    "banan": "ফীল",
+    "bangla":" অনুভব করা"
+    
+  },{
+   
+    "english":" become ",
+    "banan": "বিকাম",
+    "bangla":" হওয়া"
+    
+  },
+  {
+   
+    "english":" keep",
+    "banan": "কীপ",
+    "bangla":" রাখা"
+    
+  },{
+   
+    "english":" let",
+    "banan": "লেট",
+    "bangla":" করতে দেয়া"
+    
+  },{
+   
+    "english":" turn",
+    "banan": "টার্ন ",
+    "bangla":" ফেরা,পালা"
+    
+  },{
+   
+    "english":" keep",
+    "banan": "কীপ",
+    "bangla":" রাখা "
+    
+  },{
+   
+    "english":" begin",
+    "banan": "বিগিন",
+    "bangla":" শুরু করা"
+    
+  },{
+   
+    "english":" help",
+    "banan": "হেল্প",
+    "bangla":" সাহায্য করা"
+    
+  },{
+   
+    "english":" talk",
+    "banan": "টক",
+    "bangla":" কথা বলা"
+    
+  },{
+   
+    "english":" start",
+    "banan": "start",
+    "bangla":" শুরু করা"
+    
+  },{
+   
+    "english":" show",
+    "banan": "শো",
+    "bangla":" দেখানো"
+    
+  },{
+   
+    "english":" hear",
+    "banan": "হেয়ার",
+    "bangla":" শোনা"
+    
+  },{
+   
+    "english":" play",
+    "banan": "প্লে",
+    "bangla":" খেলা করা"
+    
+  },{
+   
+    "english":" run",
+    "banan": "রান",
+    "bangla":" দৌড়ানো"
+    
+  },{
+   
+    "english":" move",
+    "banan": "মুভ",
+    "bangla":" সরানো"
+    
+  },{
+   
+    "english":" like",
+    "banan": "লাইক",
+    "bangla":" পছন্দ করা"
+    
+  },{
+   
+    "english":" live",
+    "banan": "লিভ",
+    "bangla":" বাস করা"
+    
+  },{
+   
+    "english":" believe ",
+    "banan": "বিলিভ",
+    "bangla":" বিশ্বাস করা"
+    
+  },{
+   
+    "english":" hold",
+    "banan": "হোল্ড",
+    "bangla":" ধরা"
+    
+  },{
+   
+    "english":" bring",
+    "banan": "ব্রিং",
+    "bangla":" আনা"
+    
+  },{
+   
+    "english":" happen",
+    "banan": "হ্যাপেন",
+    "bangla":" ঘটা"
+    
+  },{
+   
+    "english":" write",
+    "banan": "রাইট",
+    "bangla":" লেখা"
+    
+  },{
+   
+    "english":" provide",
+    "banan": "প্রোভাইড",
+    "bangla":" সরবরাহ করা"
+    
+  },{
+   
+    "english":" sit",
+    "banan": "সীট",
+    "bangla":" বসা"
+    
+  },
+  {
+   
+    "english":" stand",
+    "banan": "স্ট্যান্ড",
+    "bangla":" দাড়ানো"
+    
+  },{
+   
+    "english":" lose",
+    "banan": "লছ",
+    "bangla":" হারানো"
+    
+  },{
+   
+    "english":" pay",
+    "banan": "পে",
+    "bangla":" পরিশোধ করা"
+    
+  },{
+   
+    "english":" meet",
+    "banan": "মিট",
+    "bangla":" সাক্ষাত করা"
+    
+  },{
+   
+    "english":" include",
+    "banan": "ইনক্লোড",
+    "bangla":" অন্তর্ভুক্ত করা"
+    
+  },{
+   
+    "english":" continue ",
+    "banan": "কন্টিনিউ",
+    "bangla":" চালিয়ে যাওয়া"
+    
+  },{
+   
+    "english":" set",
+    "banan": "সেট",
+    "bangla":" স্থাপন করা"
+    
+  },{
+   
+    "english":" learn",
+    "banan": "লার্ন",
+    "bangla":" শেখা"
+    
+  },{
+   
+    "english":" change",
+    "banan": "চেঞ্জ",
+    "bangla":" পরিবর্তন করা"
+    
+  },{
+   
+    "english":" lead",
+    "banan": "লীড",
+    "bangla":" পরিচালনা করা"
+    
+  },{
+   
+    "english":" understand ",
+    "banan": "আন্ডারস্ট্যান্ড ",
+    "bangla":" বুঝতে পারা"
+    
+  },{
+   
+    "english":" watch",
+    "banan": "ওয়াচ",
+    "bangla":" দেখা"
+    
+  },{
+   
+    "english":" follow",
+    "banan": "ফলো",
+    "bangla":" অনুসরণ করা"
+    
+  },{
+   
+    "english":" stop",
+    "banan": "স্টপ",
+    "bangla":" বন্ধ করা"
+    
+  },{
+   
+    "english":" create",
+    "banan": "ক্রিয়েট",
+    "bangla":" তৈরি করা"
+    
+  },{
+   
+    "english":" speak",
+    "banan": "স্পীক",
+    "bangla":" কথা বলা"
+    
+  },{
+   
+    "english":" read",
+    "banan": "রীড",
+    "bangla":" পড়া"
+    
+  },{
+   
+    "english":" allow",
+    "banan": "এলোও",
+    "bangla":" অনুমতি দেয়া"
+    
+  },{
+   
+    "english":" add",
+    "banan": "এড ",
+    "bangla":" যুক্ত করা"
+    
+  },{
+   
+    "english":" spend",
+    "banan": "স্পেন্ড",
+    "bangla":" খরচ করা"
+    
+  },{
+   
+    "english":" grow",
+    "banan": "গ্রো",
+    "bangla":" উৎপাদন করা"
+    
+  },{
+   
+    "english":" open",
+    "banan": "ওপেন",
+    "bangla":" খোলা"
+    
+  },{
+   
+    "english":" walk",
+    "banan": "ওয়াক",
+    "bangla":" হাঁটা "
+    
+  },{
+   
+    "english":" win",
+    "banan": "উইন",
+    "bangla":" জয়লাভ করা"
+    
+  },{
+   
+    "english":" offer",
+    "banan": "অফার",
+    "bangla":" প্রম্তাব দেয়া"
+    
+  },
+  {
+  
+    "english": " remember",
+    "banan": "রিমেম্বার",
+    "bangla": " স্বরণ করা"
+  
+  }, {
+  
+    "english": " love",
+    "banan": "লাভ",
+    "bangla": " ভালোবাসা "
+  
+  }, {
+  
+    "english": " consider ",
+    "banan": "কনসিডার ",
+    "bangla": " বিবেচনা করা "
+  
+  }, {
+  
+    "english": " buy",
+    "banan": "বায়",
+    "bangla": " ক্রয় করা"
+  
+  }, {
+  
+    "english": " wait",
+    "banan": "ওয়েট",
+    "bangla": " অপেক্ষা করা"
+  
+  }, {
+  
+    "english": " die",
+    "banan": "ডাই",
+    "bangla": " মারা যাওয়া"
+  
+  }, {
+  
+    "english": " send",
+    "banan": "সেন্ড",
+    "bangla": " পাঠানো"
+  
+  }, {
+  
+    "english": " build",
+    "banan": "বিল্ড",
+    "bangla": " নির্মাণ করা "
+  
+  }, {
+  
+    "english": " fall",
+    "banan": "ফল",
+    "bangla": " পতিত হওয়া"
+  
+  }, {
+  
+    "english": " cut",
+    "banan": "কাট",
+    "bangla": " কাটা"
+  
+  }, {
+  
+    "english": " reach",
+    "banan": "রিচ",
+    "bangla": " পোঁছা"
+  
+  }, {
+  
+    "english": " kill",
+    "banan": "কিল",
+    "bangla": " হত্যা করা"
+  
+  }, {
+  
+    "english": " remain",
+    "banan": "রিমেইন",
+    "bangla": " বাকি থাকা"
+  
+  }, {
+  
+    "english": " suggest",
+    "banan": "সাজেস্ট",
+    "bangla": " পরামর্শ দেয়া"
+  
+  }, {
+  
+    "english": " decide",
+    "banan": "ডিসাইড",
+    "bangla": " সিদ্ধান্ত নেয়া"
+  
+  }, {
+  
+    "english": " sell",
+    "banan": "সেল",
+    "bangla": " বিক্রি করা"
+  
+  }
+	
+   
+]

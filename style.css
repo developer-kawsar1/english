@@ -1,0 +1,40 @@
+body {
+    font-size: 15pt;
+}
+input{
+  border: none;
+  display: block;
+  width: 80%;
+  margin:auto;
+  background: #DCDCDC;
+  margin: 20px auto;
+  padding: 10px 20px;
+  outline: 0;
+  border-radius: 4px;
+  
+  
+}
+::placeholder{
+  color:#555;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+textarea{
+  width: 90%;
+  margin: auto;
+  display: block;
+  margin: auto;
+  height: 90vh;
+}
+.btn{
+  width: 90%;
+  margin: auto;
+  margin-bottom: 10px;
+  background-image: linear-gradient(to right,#C33764, #1D2671);
+  color:#fff;
+  font-weight: bold;
+  
+  
+  
+}

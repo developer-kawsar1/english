@@ -130,12 +130,12 @@ img{
 <body>
   <div class="loader"></div>
 <div class="top">
-  <img src="/images (1).png" onclick="history.back()" alt="/images (1).png">
+  <img src="/images/arrow-back.png" onclick="history.back()" alt="/images (1).png">
 </div>
 <script>
 const loader =document.querySelector('.loader')
 
-  fetch('/jdon-data/1pronoun.json')
+  fetch('/jdon-data/pronoun.json')
   .then(res=>res.json())
 .then(data=>
 {

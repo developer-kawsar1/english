@@ -1,57 +1,60 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Vocabulary list</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+      }
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vocabulary list</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      padding: 0;
-      margin: 0;
-    }
+      .container {
+        padding: 5%;
+      }
+      body {
+        background: #111921;
+      }
+      @font-face {
+        font-family: kalporosh;
+        src: url(/fonts/kalpurush.ttf);
+      }
+      @font-face {
+        font-family: hind;
+        src: url(/fonts/HindSiliguri-SemiBold.ttf);
+      }
 
-    .container {
-      padding: 5%;
-    }
-    body{
-      background:#111921;
-    }
+      .box {
+        background: #192734;
+        color: #fff;
+        padding: 30px;
+        border-radius: 5px;
 
-    .box {
+        font-size: 20px;
 
+        font-weight: bold;
+        text-align: left;
+        margin-bottom: 10px;
+        font-family: kalporosh;
+        display: flex;
+        justify-content: space-between;
+        color: yellow;
+      }
+    </style>
+  </head>
 
-background: #192734;
-color: #fff;
-      padding: 30px;
-      border-radius: 5px;
-      
-      font-size: 30px;
-      
-      font-weight: bold;
-      text-align:left;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
+  <body>
+    <div class="container">
+      <div class="box" onclick="location.href='pronoun.html'">
+        <span>১ম দিন </span> <span>pronoun</span>
+      </div>
 
-<body>
-  <div class="container">
-    <div class="box" onclick="location.href='1pronoun.html'">
-      <span>১ম দিন </span> <span>pronoun</span>
+      <div class="box" onclick="location.href='verbs.html'">
+        <span>২য় দিন </span> <span>verbs </span>
+      </div>
+      <div class="box"><span>১ম দিন </span> <span>pronoun</span></div>
     </div>
-
-    <div class="box" onclick="location.href='verbs.html'">
-      <span>২য় দিন </span> <span>verbs </span>
-    </div>
-    <div class="box">
-      <span>১ম দিন </span> <span>pronoun</span>
-    </div>
-  </div>
-
-
-
-</body>
-
+  </body>
 </html>

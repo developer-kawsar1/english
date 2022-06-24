@@ -1,5 +1,6 @@
 body {
     font-size: 15pt;
+    /* background-color: #121923; */
 }
 input{
   border: none;
@@ -37,4 +38,124 @@ textarea{
   
   
   
+}
+
+body{
+  padding-top: 60px;
+}
+@font-face {
+ font-family: comic;
+ src: url(/fonts/comic-neue.regular.ttf);
+}
+@font-face {
+  font-family: kalporosh;
+  src: url(/fonts/kalpurush.ttf);
+}
+ @font-face {
+  font-family: hind;
+  src: url(/fonts/HindSiliguri-SemiBold.ttf);
+}
+
+.kalporosh{
+ font-family: kalporosh;
+ color: green !important;
+ font-size: 28px !important;
+}
+.hind{
+font-family: hind;
+font-family: 100;
+color:#fff;
+font-size: 16px !important;
+line-height: 1;
+
+}
+.comic{
+font-family: comic;
+}
+ .box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+   
+    margin-bottom: 10px;
+    border-bottom:.0001rem solid lightblue;
+    background-color: #fff;
+   
+ 
+    
+  }
+ .box p{
+   margin-right: 5px;
+   font-weight: bold;
+   font-size: 30px;
+  margin: 0;
+  margin-right: 7px;
+  color: #F85846;
+  
+ 
+ 
+ }
+ 
+ .tooltip {
+position: relative;
+display: inline-block;
+border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+.tooltiptext {
+visibility: hidden;
+width: 120px;
+background-color: black;
+color: #fff;
+text-align: center;
+padding: 5px 0;
+border-radius: 6px;
+font-size: 15px;
+
+/* Position the tooltip text - see examples below! */
+position: absolute;
+z-index: 1;
+left: -5px;
+top: -22px;
+}
+.tooltip:hover .tooltiptext {
+visibility: visible;
+}
+.loader {
+border: 8px solid #f3f3f3; /* Light grey */
+border-top: 8px solid crimson; /* Blue */
+border-radius: 50%;
+width: 50px;
+height: 50px;
+position: absolute;
+left: 0;
+right: 0;
+margin-left: auto;
+margin-right: auto;
+top: 30%;
+
+animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+0% { transform: rotate(0deg); }
+100% { transform: rotate(360deg); }
+}
+
+.top{
+
+line-height: 1;
+background: #000;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-size: 20px;
+font-weight: 900;
+color: #fff;
+z-index: 100;
+
+}
+img{
+width: 50px;
 }

@@ -4,29 +4,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pronouns</title>
-<link rel="stylesheet" href="style.css">
+  <title>ADVERBS </title> 
+  <link rel="stylesheet" href="style.css">
+ 
+
 </head>
 
 <body>
   <div class="loader"></div>
 <div class="top">
-  <img src="images/arrow-back.png" onclick="history.back()" alt="back image "> 
+  <img src="images/arrow-back.png" onclick="history.back()" alt="/images (1).png"> 
   <p class="length">0</p>
 </div>
 <script>
 const loader =document.querySelector('.loader')
 
-  fetch('json/pronoun.json')
+  fetch('json/priposition.json')
   .then(res=>res.json())
 .then(data=>
 { 
-  document.querySelector('.length').innerHTML=data.length+' Pronouns'
+  document.querySelector('.length').innerHTML=data.length+' adverbs'
 for(item of data){
   const div=document.createElement('div')
   
-  div.innerHTML=`  <div class="box"> 
-
+  div.innerHTML=`  <div class="box">
       <p  class="comic tooltip">${item.english}
             <span class="tooltiptext hind">${item.banan}</span>
       </p>
@@ -34,7 +35,7 @@ for(item of data){
 
       
       
-      <p class="kalporosh bangla" >${item.bangla}</p>
+      <p class="kalporosh">${item.bangla}</p>
     </div>`
     loader.style.display='none'
     document.body.appendChild(div)

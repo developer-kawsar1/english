@@ -11,13 +11,13 @@
 <body>
   <div class="loader"></div>
 <div class="top">
-  <img src="/images/arrow-back.png" onclick="history.back()" alt="/images (1).png"> 
+  <img src="images/arrow-back.png" onclick="history.back()" alt="back image "> 
   <p class="length">0</p>
 </div>
 <script>
 const loader =document.querySelector('.loader')
 
-  fetch('/jdon-data/pronoun.json')
+  fetch('json/pronoun.json')
   .then(res=>res.json())
 .then(data=>
 { 

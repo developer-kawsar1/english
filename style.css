@@ -50,15 +50,15 @@ body{
 }
 @font-face {
  font-family: comic;
- src: url(/fonts/comic-neue.regular.ttf);
+ src: url(fonts/comic-neue.regular.ttf);
 }
 @font-face {
   font-family: kalporosh;
-  src: url(/fonts/kalpurush.ttf);
+  src: url(fonts/kalpurush.ttf);
 }
  @font-face {
   font-family: hind;
-  src: url(/fonts/HindSiliguri-SemiBold.ttf);
+  src: url(fonts/HindSiliguri-SemiBold.ttf);
 }
 
 .kalporosh{
